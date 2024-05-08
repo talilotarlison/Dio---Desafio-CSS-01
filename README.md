@@ -4,4 +4,4 @@
 ## HTML
 ## CSS
 
-![Projeto DIO](https://github.com/talilotarlison/view/blob/main/Dio%20-%20Desafio%201/view.png?raw=true)
+![Projeto DIO](https://raw.githubusercontent.com/talilotarlison/Dio-Desafio-CSS-01/main/view/view.png)
